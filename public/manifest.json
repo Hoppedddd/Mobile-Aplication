@@ -3,8 +3,8 @@
     "short_name": "Hoppedd",
     "start_url": "/",
     "display": "standalone",
-    "theme_color": "black",
-    "background_color": "black",
+    "theme_color": "F000000",
+    "background_color": "F000000",
     "icons": [{
       "src": "blaack.png",
       "sizes": "192x192",
