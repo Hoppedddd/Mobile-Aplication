@@ -31,3 +31,10 @@ html,body{
   top:20px;
   right:20px;
 }
+
+#avatar {
+  width: 90%;
+  height: 80%;
+  background-color: white;
+  
+}
